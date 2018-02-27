@@ -1,4 +1,4 @@
-#Adversarial Variational Optimization in Tensorflow
+# Adversarial Variational Optimization in Tensorflow
 
 In this repository we will implement and reproduce the first two examples of the [Adversarial Variational Optimization of Non-Differentiable Simulators](https://arxiv.org/abs/1707.07113) paper from Gilles Louppe and Kyle Cranmer by using tensorflow.
 
